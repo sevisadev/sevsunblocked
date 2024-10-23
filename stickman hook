@@ -1,0 +1,7 @@
+<body>
+
+    <script src="bundle.js"></script>
+    <div style="position: absolute; bottom: 0px; left: 0px; right: 0px;" id="game"></div>
+
+  
+<div class="pokiSdkContainer pokiSdkHidden pokiSdkFixed"><div class="pokiSdkInsideContainer"><div class="pokiSdkProgressContainer pokiSdkHidden"><div class="pokiSdkProgressBar" style="width: 0%;"></div></div><video id="pokiSDKVideoContainer" class="pokiSdkVideoContainer" playsinline="playsinline" muted="muted"></video><div id="pokiSDKAdContainer" class="pokiSDKAdContainer"></div></div><div class="pokiSdkSpinnerContainer"></div><div class="pokiSdkPauseButton pokiSdkHidden"><div class="pokiSdkPauseButtonBG"></div></div><div class="pokiSdkStartAdButton pokiSdkHidden">Tap anywhere to play ad</div></div><canvas width="831" height="600" style="touch-action: none; cursor: inherit;"></canvas><div class="ui"><div><button class="button pause-button"></button><div class="level-progress"><span class="lvl current">1</span><span class="level-progressbar-container"><div class="level-progressbar" style="width: 0%;"></div></span><span class="lvl next">2</span></div></div></div><div style="position: absolute; bottom: 0px; left: 0px; right: 0px;"></div></body>
